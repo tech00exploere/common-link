@@ -1,4 +1,4 @@
-# Common Link 🔗
+# Common Link 
 
 A directory of top tech companies with direct links to their official career portals.
 
