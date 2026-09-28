@@ -1,5 +1,7 @@
 export const companies = [
   { name: "TCS", type: "IT Services", location: "India", careersUrl: "https://www.tcs.com/careers" },
+
+  
   { name: "Infosys", type: "IT Services", location: "India", careersUrl: "https://www.infosys.com/careers/" },
   { name: "Wipro", type: "IT Services", location: "India", careersUrl: "https://careers.wipro.com/" },
   { name: "HCLTech", type: "IT Services", location: "India", careersUrl: "https://www.hcltech.com/careers" },
